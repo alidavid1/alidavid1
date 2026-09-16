@@ -21,15 +21,6 @@ Junior Computer Engineering student at **Istanbul Technical University (ITU)**. 
 
 ---
 
-### 📊 GitHub & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alidavid1&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidavid1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 - **Portfolio / Web:** [alidavuteskiocak.net.tr](https://alidavuteskiocak.net.tr)
