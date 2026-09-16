@@ -6,9 +6,9 @@ Junior Computer Engineering student at **Istanbul Technical University (ITU)**. 
 
 ### 💻 Languages & How I Use Them
 
-- **Python**: I use Python in my university coursework and am currently developing my graduation project in Predictive Maintenance[cite: 1]. I also automate processes at Mercedes-Benz using Python[cite: 1].
-- **C / C++**: At ITU, we learn core programming concepts in C++[cite: 1]. I also use C++ regularly for competitive programming[cite: 1].
-- **SQL**: Database querying, log analysis (ArcSight), and IT asset lifecycle tracking[cite: 1].
+- **Python**: I use Python in my university coursework and am currently developing my graduation project in Predictive Maintenance. I also automate processes at Mercedes-Benz using Python.
+- **C / C++**: At ITU, we learn core programming concepts in C++. I also use C++ regularly for competitive programming.
+- **SQL**: Database querying, log analysis (ArcSight), and IT asset lifecycle tracking.
 - **HTML / CSS / JS**: I built my personal portfolio website and developed the "GoUnbound" platform for adventure seekers.
 
 ---
